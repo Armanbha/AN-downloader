@@ -1,4 +1,4 @@
- Flask, 
-flask-cors, 
+Flask
+flask-cors
 yt-dlp
-,gunicorn।
+gunicorn।
