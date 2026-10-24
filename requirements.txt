@@ -1,0 +1,1 @@
+ Flask, flask-cors, yt-dlp,gunicorn।
