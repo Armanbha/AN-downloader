@@ -1,4 +1,4 @@
-Flask
-flaskcors
+flask
+flask ors
 ytdlp
-gunicorn।
+gunicorn
